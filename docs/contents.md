@@ -14,6 +14,7 @@ I assume you:
 - Are using a Mac. However, this tutorial can easily be adapted to Linux
 - Have used a command line before
 - Have done at least a little coding before
+- Have a GitHub account
 - Have basic Git skills
 - Know what a Virtual Machine is
 - Know what an API and a web application are
